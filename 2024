@@ -1,4 +1,4 @@
--- SCRIPT BY SLAX
+-- SCRIPT BY H3CK3_03
 
 local Main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
